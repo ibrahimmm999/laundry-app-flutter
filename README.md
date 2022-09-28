@@ -1,6 +1,6 @@
-# flutter_application_1
+# Laundry-App
 
-A new Flutter project.
+Aplikasi laundry bernama "Cilacap Laundry"
 
 ## Getting Started
 
